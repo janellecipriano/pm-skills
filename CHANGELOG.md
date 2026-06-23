@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [1.0.0] — 2026-06-22
+## [0.0.1] — 2026-06-22
 
 ### Added
 - Initial release: 19 open-source Program Management skills for Claude, organized into four groups.
@@ -18,5 +18,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Starter templates for `project-charter`, `status-report`, and `raid-log`.
 - Repository docs: `README`, `CONTRIBUTING`, `CODE_OF_CONDUCT`, MIT `LICENSE`, and `.gitignore`.
 
-[Unreleased]: https://github.com/janellecipriano/pm-skills/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/janellecipriano/pm-skills/releases/tag/v1.0.0
+[Unreleased]: https://github.com/janellecipriano/pm-skills/compare/v0.0.1...HEAD
+[0.0.1]: https://github.com/janellecipriano/pm-skills/releases/tag/v0.0.1
