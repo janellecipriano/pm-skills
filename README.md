@@ -114,6 +114,8 @@ skills/<skill-name>/
 
 PRs and issues are welcome — new skills, better templates, fixes to triggering. See [CONTRIBUTING.md](CONTRIBUTING.md) for the skill format and conventions. Be excellent to each other ([Code of Conduct](CODE_OF_CONDUCT.md)).
 
+Release history lives in the [CHANGELOG](CHANGELOG.md).
+
 ## License
 
 [MIT](LICENSE) © 2026 Janelle Cipriano. Use it, fork it, share it with your community.
