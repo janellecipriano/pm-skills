@@ -1,5 +1,6 @@
 ---
 name: release-notes
+argument-hint: [changelog/PRs + audience]
 description: Write audience-appropriate release notes from a changelog, list of merged PRs, or feature list — grouped by type, in user-benefit language. Use when the user says "write release notes", "changelog", "what's new", "announce this release", or wants to turn a list of changes into customer- or internal-facing notes.
 ---
 

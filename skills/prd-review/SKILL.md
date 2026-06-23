@@ -1,5 +1,6 @@
 ---
 name: prd-review
+argument-hint: [paste PRD or file path]
 description: Review a product requirements document (PRD) or spec against a quality checklist and surface gaps, ambiguities, and risks before engineering starts. Use when the user says "review this PRD", "is this spec ready", "critique my requirements", "PRD checklist", or shares a doc and wants it pressure-tested before build.
 ---
 

@@ -1,5 +1,6 @@
 ---
 name: project-charter
+argument-hint: [project name or idea]
 description: Draft a project or program charter for a kickoff — problem statement, goals, scope (in/out), success metrics, stakeholders, milestones, and risks. Use when the user says "write a charter", "kick off a project", "create a project brief", "we're starting a new initiative", or needs a one-page alignment doc before work begins.
 ---
 

@@ -1,5 +1,6 @@
 ---
 name: postmortem
+argument-hint: [incident + timeline/notes]
 description: Run a blameless postmortem / incident review — timeline, impact, root cause analysis, and corrective actions. Use when the user says "postmortem", "incident review", "RCA", "root cause analysis", "what happened with the outage", or wants to turn an incident into a structured, blameless writeup with preventive actions.
 ---
 

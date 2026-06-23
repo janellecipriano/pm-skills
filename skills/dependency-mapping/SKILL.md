@@ -1,5 +1,6 @@
 ---
 name: dependency-mapping
+argument-hint: [project + deliverables/teams]
 description: Map cross-team and external dependencies for a project — what's needed, from whom, by when — and identify the critical path and at-risk handoffs. Use when the user says "map dependencies", "what are we blocked on", "cross-team dependencies", "critical path", or needs to coordinate handoffs across teams or vendors.
 ---
 

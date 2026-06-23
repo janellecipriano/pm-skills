@@ -1,5 +1,6 @@
 ---
 name: estimation-sizing
+argument-hint: [items/stories to size]
 description: Facilitate estimation and turn sizes into a credible delivery forecast — T-shirt sizes or story points, assumptions, and a range rather than a false-precision date. Use when the user says "estimate this", "size these stories", "how long will this take", "story points", "give me a delivery range", or needs to convert scope into a defensible timeline.
 ---
 

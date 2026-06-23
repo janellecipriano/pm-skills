@@ -1,5 +1,6 @@
 ---
 name: capacity-planning
+argument-hint: [team + horizon + demand]
 description: Model team capacity against committed and planned demand to spot over-allocation and forecast what can realistically be delivered. Use when the user says "capacity planning", "do we have bandwidth", "are we over-allocated", "headcount vs. demand", "can we take on X", or needs to balance workload against available people.
 ---
 

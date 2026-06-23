@@ -1,5 +1,6 @@
 ---
 name: raid-log
+argument-hint: [project; item to log]
 description: Create and maintain a RAID log — Risks, Assumptions, Issues, and Dependencies — for a project or program. Use when the user says "RAID log", "risk register", "track our risks/assumptions/issues/dependencies", "log a new risk", or needs a structured way to track and review threats and open items.
 ---
 

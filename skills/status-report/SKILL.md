@@ -1,5 +1,6 @@
 ---
 name: status-report
+argument-hint: [project + period + any updates]
 description: Write a concise project or program status report with an overall RAG (red/amber/green) health rating, progress since last update, what's next, risks/blockers, and explicit asks. Use when the user says "write a status report", "weekly update", "status update", "where are we on X", or needs a stakeholder-ready progress summary.
 ---
 

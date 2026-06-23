@@ -1,5 +1,6 @@
 ---
 name: decision-log
+argument-hint: [the decision + context]
 description: Capture decisions in a durable, searchable log — the decision, context, options considered, rationale, owner, and date. Use when the user says "log this decision", "decision record", "ADR", "document what we decided", "decision log", or wants to record why a choice was made so it isn't relitigated later.
 ---
 

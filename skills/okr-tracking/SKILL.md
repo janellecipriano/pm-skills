@@ -1,5 +1,6 @@
 ---
 name: okr-tracking
+argument-hint: [objective + key results, or progress]
 description: Draft and track OKRs — objectives with measurable key results, current values, and confidence/health. Use when the user says "write OKRs", "set objectives and key results", "track our OKRs", "quarterly goals", "are we on track for our KRs", or needs to define or check progress on measurable goals.
 ---
 

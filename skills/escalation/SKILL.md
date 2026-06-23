@@ -1,5 +1,6 @@
 ---
 name: escalation
+argument-hint: [problem + the ask]
 description: Draft a clear, professional, unemotional escalation — the problem, impact, what's been tried, and a specific ask with a deadline. Use when the user says "escalate this", "write an escalation", "I need to raise this to leadership", "we're blocked and need help", or needs to ask for intervention without sounding alarmist or blaming.
 ---
 

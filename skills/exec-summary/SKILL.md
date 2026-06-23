@@ -1,5 +1,6 @@
 ---
 name: exec-summary
+argument-hint: [paste update or file path]
 description: Distill a detailed program update, document, or set of notes into a one-screen executive summary written for leadership — headline, status, key points, and decisions needed. Use when the user says "exec summary", "summarize for leadership", "TL;DR for the VP", "make this executive-ready", or needs to compress detail into a decision-focused brief.
 ---
 

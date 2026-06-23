@@ -1,5 +1,6 @@
 ---
 name: stakeholder-comms-plan
+argument-hint: [program + stakeholders]
 description: Build a stakeholder map and a communication plan — who needs what information, at what cadence, through which channel. Use when the user says "stakeholder map", "communication plan", "comms plan", "who do we need to keep informed", "RACI for comms", or needs to plan how to keep stakeholders aligned across a program.
 ---
 

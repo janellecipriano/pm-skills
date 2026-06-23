@@ -1,5 +1,6 @@
 ---
 name: program-health-dashboard
+argument-hint: [workstreams + statuses]
 description: Assemble a one-page program health snapshot across multiple workstreams — RAG status, milestones, top risks, dependencies, and metrics in a single scannable view. Use when the user says "program dashboard", "program health", "portfolio status", "one-pager across workstreams", "roll up all the projects", or needs an at-a-glance view of a multi-stream program.
 ---
 

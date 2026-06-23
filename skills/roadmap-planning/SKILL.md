@@ -1,5 +1,6 @@
 ---
 name: roadmap-planning
+argument-hint: [goals/initiatives + horizon]
 description: Turn goals, themes, and initiatives into a structured product roadmap — now/next/later or quarterly — with outcomes, rough sizing, dependencies, and confidence. Use when the user says "build a roadmap", "plan the quarter/half/year", "prioritize our initiatives", "what should we work on next", or needs to sequence work against objectives.
 ---
 

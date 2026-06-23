@@ -1,5 +1,6 @@
 ---
 name: sprint-planning
+argument-hint: [dates + capacity + backlog]
 description: Plan a sprint or iteration — sprint goal, available capacity, committed scope, and risks — from a backlog. Use when the user says "plan the sprint", "sprint planning", "what should we commit to this iteration", "groom the backlog into a sprint", or needs to turn priorities + capacity into a realistic commitment.
 ---
 

@@ -1,5 +1,6 @@
 ---
 name: launch-readiness
+argument-hint: [what's launching + target date]
 description: Run a go/no-go launch-readiness review for a product or feature release across all functions (product, eng, QA, design, docs, support, marketing, legal, ops). Use when the user says "launch readiness", "go/no-go", "are we ready to ship/launch", "release checklist", or needs a cross-functional sign-off before shipping.
 ---
 

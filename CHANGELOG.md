@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+- `argument-hint` frontmatter on all 19 skills for clearer autocomplete hints when invoked as slash commands (e.g. `/status-report [project + period + any updates]`).
+
 ## [0.0.1] — 2026-06-22
 
 ### Added

@@ -1,5 +1,6 @@
 ---
 name: retrospective
+argument-hint: [team/project + raw notes]
 description: Facilitate and write up a team retrospective — what went well, what didn't, and owned, time-bound action items. Use when the user says "run a retro", "retrospective", "sprint retro", "project post-completion review", "lessons learned", or wants to turn raw retro notes into a structured summary with follow-ups.
 ---
 
